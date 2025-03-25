@@ -1,0 +1,14 @@
+AppData/
+Desktop/
+Downloads/
+Documents/
+Pictures/
+Music/
+Videos/
+OneDrive/
+
+*.log
+*.ini
+*.dat
+	
+
